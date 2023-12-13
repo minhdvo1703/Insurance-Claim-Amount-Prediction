@@ -7,7 +7,7 @@
 
 - The insurance industry faces the complex challenge of accurately assessing risk to set fair premiums for each customer.
 - Inaccurate claim predictions can lead to significant financial discrepancies, affecting the insurer's financial health and decision-making.
-- Current methodologies struggle to incorporate the full complexity of modern health profiles, leading to less reliable claim cost predictions.
+- Current methodologies struggle to incorporate the full complexity of modern health profiles.
 
 
 ## Project Objectives
